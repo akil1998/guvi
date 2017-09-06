@@ -1,11 +1,9 @@
 #include <stdio.h>
 #include <math.h>
- 
-void main()
+ void main()
 {
     int number, sum = 0, rem = 0, cube = 0, temp;
- 
-    printf ("enter a number");
+  printf ("enter a number");
     scanf("%d", &number);
     temp = number;
     while (number != 0)
