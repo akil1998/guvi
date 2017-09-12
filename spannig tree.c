@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
- int v1,v2,wt;   // wt is the weight of the edge
+ int v1,v2,wt; 
 }
 class kruskalsalgo
 {
