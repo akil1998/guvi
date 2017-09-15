@@ -1,0 +1,9 @@
+f
+g
+fdg
+fg
+fg
+fg
+dfg
+df
+gfd
