@@ -1,4 +1,0 @@
-tert
-gf
-d
-gfv
