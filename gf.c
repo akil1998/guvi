@@ -1,4 +1,0 @@
-trret
-ii
-
-i
