@@ -1,3 +1,0 @@
-hjkj
-kk
-kjj
