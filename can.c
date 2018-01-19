@@ -1,5 +1,5 @@
 #include <stdio.h>
-3include<conio.h>
+#include<conio.h>
 void main()
 {
 void cmp(const void *a,const void *b){
