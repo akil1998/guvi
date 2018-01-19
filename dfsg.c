@@ -1,3 +1,0 @@
-hytr
-ju
-ujhy
