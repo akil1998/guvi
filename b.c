@@ -1,4 +1,0 @@
-tyy
-ik\u
-
-uu
