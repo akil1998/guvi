@@ -1,4 +1,0 @@
-ffg
-fg
-fgg
-g
