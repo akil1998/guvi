@@ -1,3 +1,0 @@
-tyu
-uyiiy
-huug
